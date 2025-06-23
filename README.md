@@ -15,8 +15,8 @@
 - **Portfolio Website**: Building a personal portfolio to showcase my projects and skills (Stay tuned!)  
 
 ## 📫 **Get in Touch**  
-- **GitHub**: [@RehanMalik](https://github.com/RehanMalik)  
-- **Email**: [rehan12.official@gmail.com](mailto:your-email@example.com) 
+- **GitHub**: [@RehanMalik](https://github.com/Rehan12-coder)  
+- **Email**: [@RehanMalik](mailto:rehan12.official@gmail.com) 
 
 💡 **Fun Fact**: I love learning new languages—both programming and spoken!  
 
